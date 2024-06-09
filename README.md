@@ -215,7 +215,11 @@ Make username "root" and password "Password1"
 <p>
 <img width="399" alt="Screenshot 2024-06-04 at 8 30 37 PM" src="https://github.com/joshmadakorcc/osticket-prereqs/assets/171518500/4817f2c7-6159-4915-966f-b98d168eeac5">
 <p>
-Go back to the osTicket browser page and under the Database Settings in the browser the username will be "root" and the password will be "Password1".
+  Press "Open" 
+<p>
+  <img width="683" alt="Screenshot 2024-06-09 at 3 30 38 PM" src="https://github.com/samparkercc/osTicket-prereqs1/assets/171518500/340accc7-6d6f-49f8-a0de-69590431a032">
+<p>
+  Go then go back to the osTicket browser page and under the Database Settings in the browser the username will be "root" and the password will be "Password1".
 <p>
 In HeidiSQL, right click Unnamed -> Create New -> Database
 <p>
@@ -225,6 +229,16 @@ Name it, "osTicket"
 <p> 
 <img width="135" alt="Screenshot 2024-06-04 at 8 38 28 PM" src="https://github.com/joshmadakorcc/osticket-prereqs/assets/171518500/7917eedf-9ec1-43cb-b9aa-2368d3f3e2fd">
 <p>
+  Fill in SQL Database with, "osTicket" 
+<p>
+<img width="848" alt="Screenshot 2024-06-09 at 3 32 39 PM" src="https://github.com/samparkercc/osTicket-prereqs1/assets/171518500/e34b5a4c-b045-4e36-94fe-a2963abe1d3d">
+<p>
+  Congratulations! You've successfully setup osTicket! 
+  <p>
+    <img width="817" alt="Screenshot 2024-06-09 at 3 33 00 PM" src="https://github.com/samparkercc/osTicket-prereqs1/assets/171518500/f09950a3-d018-440c-80e0-f1b1b35a1d6f">
+<p>
+  Then for cleanup: 
+  <p>
 19.) Delete "setup" folder within the osTicket file
 <p>
 <img width="829" alt="Screenshot 2024-06-04 at 8 43 07 PM" src="https://github.com/joshmadakorcc/osticket-prereqs/assets/171518500/3f6804d5-794e-4598-b5cc-c331fee8e5e1">
