@@ -153,7 +153,7 @@ Click on Restart.
 Rename the "upload" folder to EXACTLY "osTicket" (if it isn't exactly "osTicket" then it will not work). 
 - Restart IIS again.
 <p>
-15.) On IIS go to Sites -> Default -> osTicket -> On the right, click “Browse *:80”
+15.) On IIS go to Sites -> Default Web Site -> osTicket -> On the right, click “Browse *:80”
 <p>
 <img width="1266" alt="Screenshot 2024-06-04 at 7 51 43 PM" src="https://github.com/joshmadakorcc/osticket-prereqs/assets/171518500/39502f1b-74a7-44c0-8a16-84318da43c7c">
 <p>
